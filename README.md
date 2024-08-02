@@ -27,8 +27,6 @@ Before using this code, you gotta make sure you have your local server ready (su
 More previews are available [here](https://github.com/khansasafira19/sk-employee-job-manager/tree/master/demo-pics).
 ![](demo-pics/login.png?raw=true)
 ![](demo-pics/dailyreport.png?raw=true)
-![](demo-pics/executive-summary.png?raw=true)
-![](demo-pics/executive-summary-pdf.png?raw=true)
 
 ## LICENSE
 Copyright © 2023 by Safira Khansa (Nofriani)
